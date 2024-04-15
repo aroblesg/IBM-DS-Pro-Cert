@@ -1,4 +1,4 @@
-# IBM-DS-Pro-Cert - Tools for Data Science
+# IBM-DS-Pro-Cert - Capstone Project
 IBM Data Science Professional Certificate
 
 
